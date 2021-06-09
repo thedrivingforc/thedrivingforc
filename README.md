@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### Hi there, I'm Mritunjay 👋 👩🏾‍💻
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Kumar Mritunjay](https://github.com/kothariji) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=thedrivingforc.thedrivingforc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kmritunjay_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkmritunjay_&screen_name=kmritunjay_)
