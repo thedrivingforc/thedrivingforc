@@ -43,7 +43,7 @@
 
 ## </p>
 
-| ![Mritunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedrivingforc&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedrivingforc&layout=compact)](https://github.com/thedrivingforc/github-readme-stats) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedrivingforc"/> |
+| ![Mritunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedrivingforc&show_icons=true&theme=radical) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedrivingforc"/> |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 
 ---
