@@ -10,10 +10,6 @@
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Structure and Algorithms, Flutter.\
 ✉️ &nbsp;You can shoot me an email at mritrunjay@gmail.com! I'll try to respond as soon as I can.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mritunjay Spotify Playing" width="350" />](https://open.spotify.com/user/31lyrjwxurdamzllmik3zf3w6qdi)
-
 ## Find me around the web 🌎
 
 - Struggling on <a href="https://leetcode.com/thedrivingforce/">LeetCode</a> 😍
